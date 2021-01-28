@@ -1,7 +1,8 @@
 # RasQberry_enclosure
 Enclosure for the RasQberry project. Replicates the look of the IBM Q System One.
 
-![](images/rasqberry_explosion_drawing.png)
+![](images/rasqberry_explosion_drawing.png "mapping of STL files necessary for printing version 5")
+
 
 
 
