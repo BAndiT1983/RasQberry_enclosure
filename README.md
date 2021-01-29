@@ -7,7 +7,7 @@ This is a mapping of the STL files necessary for printig all parts for version 5
 
 
 
-[IBM Q System One](https://www.youtube.com/watch?v=kTnV4gf6yoc&feature=youtu.be "RasQberry 3D model draft")
+[short assembly animation for version 5 RasQberry 3D model](https://www.youtube.com/watch?v=kTnV4gf6yoc&feature=youtu.be)
 
 
 
