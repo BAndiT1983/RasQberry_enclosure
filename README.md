@@ -7,9 +7,10 @@ This is a mapping of the STL files necessary for printig all parts for version 5
 ![](images/STL_Filemapping_on_sheme_v5.5.png)
 
 
-[![](http://img.youtube.com/vi/LZZDI9oBFN8/0.jpg)](https://www.youtube.com/watch?v=LZZDI9oBFN8) 
+### Assembly for Version 5.5
+[![](http://img.youtube.com/vi/LZZDI9oBFN8/0.jpg)](https://www.youtube.com/watch?v=LZZDI9oBFN8 "assembly animation RasQberry 3D model v.5.5") 
 
-"assembly animation RasQberry 3D model v.5.5"
+
 
 
 
